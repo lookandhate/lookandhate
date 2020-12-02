@@ -1,4 +1,5 @@
 ### Hi there 👋
+### Studying Data science and GameDev, because have not decided what I like yet 😉
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=lookandhate&theme=onedark)](https://github.com/lookandhate)
 
