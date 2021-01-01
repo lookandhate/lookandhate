@@ -29,6 +29,6 @@
 
 ### Some fancy github statistics
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=lookandhate&theme=onedark)](https://github.com/lookandhate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=lookandhate&theme=synthwave)](https://github.com/lookandhate)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lookandhate&theme=onedark&layout=compact)](https://github.com/lookandhate)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lookandhate&theme=synthwave&layout=compact)](https://github.com/lookandhate)
