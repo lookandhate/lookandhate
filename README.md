@@ -13,9 +13,9 @@
 ### Frameworks
 1.![python] Pandas
 
-2.![python] numpy
+2.![python]![np](https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg) numpy
 
-3.![python] Flask
+3.![python]![Flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg) Flask
 
 4.![python] sqlalchemy
 
@@ -23,7 +23,7 @@
 
 ### General
 1. SQL
-2. ![MongoDB](https://raw.githubusercontent.com/mongodb-js/favicon/master/favicon.ico) MongoDB
+2. ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg) MongoDB
 
 ***
 
