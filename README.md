@@ -4,6 +4,16 @@ You can get in tocuh with me using:
 1. [Telegram](https://telegram.org): @lookandhatee
 2. [Discord](https://discord.com): linear degradation#3689
 
+## My projects
+1. [Bugtracker](https://github.com/lookandhate/Bugtracker) - first and last so far "serious" web project. Uses python library called [Flask](https://flask.palletsprojects.com/en/1.1.x/) as backend framework. SQLite is used for user accounts and projects. Instead of pure SQLite, I used [sqlalchemy](https://www.sqlalchemy.org/) wrapper to achieve more convinient way of data reading/writing processes.
+
+2. [AWRPC](https://github.com/lookandhate/AWRPC) - program that implements Discord Rich precense functionality for [Armored Warfare](https://aw.my.games/en) PC game. I am not maintaining it anymore, because of obvious lack of popularity, but it's very easy to get it working after game updates. You just need to change one memory offset and rebuild the solution
+
+3. [Armored Warfare API](https://github.com/lookandhate/ArmoredWarfareAPI) - another project related to [Armored Warfare](https://aw.my.games/en). This time project itself is some kind of unofficial player statistics API implementation. I found a very "hacky" way to access player statistics: just parse page from web-site, but in order to get access to player statistics page you need to be authenticated, so it does not work if you do not have working cookies from https://armata.my.games/. But at least it works. And again, due lack of game popularity, nobody really uses it(besides me of course).
+
+4. And the last, but not the least - my [AW](https://github.com/lookandhate/AWRPC) game statistics analysis (ye, I am really addicted to this game. **mail.ru, please hire me**). But do not take this research as something serious, it some kind of my "Hello world" project in world of data science.
+
+
 ## My skills
 ### Languages
 [python]: https://github.com/benawad/flairs/blob/master/resized/python.png
