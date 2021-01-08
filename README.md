@@ -20,7 +20,7 @@ You can get in tocuh with me using:
 ![python] Python
 
 
-![C++](https://github.com/benawad/flairs/blob/master/resized/cpp.png) C++
+![C++](https://github.com/benawad/flairs/blob/master/resized/cpp.png) C++ (*Not really great*)
 
 ***
 
