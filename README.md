@@ -11,7 +11,7 @@ You can get in tocuh with me using:
 
 3. [Armored Warfare API](https://github.com/lookandhate/ArmoredWarfareAPI) - another project related to [Armored Warfare](https://aw.my.games/en). This time project itself is some kind of unofficial player statistics API implementation. I found a very "hacky" way to access player statistics: just parse page from web-site, but in order to get access to player statistics page you need to be authenticated, so it does not work if you do not have working cookies from https://armata.my.games/. But at least it works. And again, due lack of game popularity, nobody really uses it(besides me of course).
 
-4. And the last, but not the least - my [AW](https://github.com/lookandhate/AWRPC) game statistics analysis (ye, I am really addicted to this game. **mail.ru, please hire me**). But do not take this research as something serious, it some kind of my "Hello world" project in world of data science.
+4. And the last, but not the least - my [AW](https://aw.my.games/en) game statistics analysis (ye, I am really addicted to this game. **mail.ru, please hire me**). But do not take this research as something serious, it some kind of my "Hello world" project in world of data science.
 
 
 ## My skills
