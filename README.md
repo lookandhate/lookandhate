@@ -1,6 +1,10 @@
 ### 17 y.o High school student
+### Looking for summer internship opportunities.
+You can get in tocuh with me using:
+1. [Telegram](https://telegram.org): @lookandhatee
+2. [Discord](https://discord.com): linear degradation#3689
 
-## Skills
+## My skills
 ### Languages
 [python]: https://github.com/benawad/flairs/blob/master/resized/python.png
 ![python] Python
