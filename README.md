@@ -13,6 +13,8 @@ You can get in tocuh with me using:
 
 4. And the last, but not the least - my [AW](https://aw.my.games/en) [game statistics analysis](https://github.com/lookandhate/ArmoredWarfareStatisticsAnalyze) (ye, I am really addicted to this game. **mail.ru, please hire me**). But do not take this research as something serious, it some kind of my "Hello world" project in world of data science.
 
+*There are some other repos with projects, but it's not really cool ones. I wrote it then I was just learning, and it was wrote in the bad way*
+
 
 ## My skills
 ### Languages
