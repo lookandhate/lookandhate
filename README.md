@@ -20,14 +20,17 @@ You can get in tocuh with me using:
 ## My skills
 ### Languages
 [python]: https://github.com/benawad/flairs/blob/master/resized/python.png
-![python] Python
+[C++]: https://github.com/benawad/flairs/blob/master/resized/cpp.png
 
+![python] Python
 
 ![C++](https://github.com/benawad/flairs/blob/master/resized/cpp.png) C++ (*Not really great*)
 
 ***
 
 ### Frameworks
+0.![C++] Unreal Engine 4
+
 1.![python] Pandas
 
 2.![python]![np](https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg) numpy
