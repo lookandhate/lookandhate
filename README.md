@@ -1,9 +1,7 @@
-### 17 y.o High school student
-### Looking for summer internship opportunities.
+### 18 y.o Computer Science Freshman 
 You can get in tocuh with me using:
 1. [Telegram](https://telegram.org): @lookandhatee
-2. [Discord](https://discord.com): linear degradation#3689
-3. [Kaggle](https://www.kaggle.com/lookandhate)
+2. [Kaggle](https://www.kaggle.com/lookandhate)
 
 ## My projects
 1. [Bugtracker](https://github.com/lookandhate/Bugtracker) - first and last so far "serious" web project. Uses python library called [Flask](https://flask.palletsprojects.com/en/1.1.x/) as backend framework. SQLite is used for user accounts and projects. Instead of pure SQLite, I used [sqlalchemy](https://www.sqlalchemy.org/) wrapper to achieve more convinient way of data reading/writing processes.
