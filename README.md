@@ -14,6 +14,10 @@ You can get in tocuh with me using:
 
 *There are some other repos with projects, but it's not really cool ones. I wrote it then I was just learning, and it was wrote in the bad way*
 
+### Some University stuff
+1. [Basics of programming labs](https://github.com/lookandhate/UniversityLabs)
+
+2. [Object oriented programming](https://github.com/lookandhate/OOPJavaLabs)
 
 ## My skills
 ### Languages
