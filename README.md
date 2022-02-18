@@ -14,6 +14,11 @@ You can get in tocuh with me using:
 
 *There are some other repos with projects, but it's not really cool ones. I wrote it then I was just learning, and it was wrote in the bad way*
 
+### Test assigments
+1. [Backend python developer](https://github.com/lookandhate/SandlabsTech)
+2. [Android developer course](https://github.com/lookandhate/CatFacts)
+
+
 ### Some University stuff
 1. [Basics of programming track](https://github.com/lookandhate/UniversityLabs)
 
