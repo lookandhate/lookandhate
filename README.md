@@ -1,4 +1,4 @@
-### 18 y.o Computer Science Freshman 
+### 19 y.o Computer Science Sophomore 
 You can get in tocuh with me using:
 1. [Telegram](https://telegram.org): @lookandhatee
 2. [Kaggle](https://www.kaggle.com/lookandhate)
